@@ -10,3 +10,6 @@ Asding 2
 
 
 Remote repo check
+
+
+diff check 
