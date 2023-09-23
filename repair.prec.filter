@@ -1,0 +1,99 @@
+PT1	PT2	Precedence
+add refrigerant	recharge refrigerant	recharge refrigerant
+add water pump	replace water pump	replace water pump
+adjust electronic ignition pickup	replace electronic ignition pickup	adjust electronic ignition pickup
+adjust headlight	replace headlight	adjust headlight
+alignment tires	alignment service	alignment service
+balance tire	replace tire	balance tire
+balance tires	tire service	tire service
+balance wheel	replace wheel	balance wheel
+charge a/c system	replace a/c system	charge a/c system
+clean brake	replace brake	clean brake
+clean radiator	replace radiator	replace radiator
+drain & refill engine coolant	drain & refill engine cooling system	drain & refill engine coolant
+drain & refill engine coolant	flush engine coolant	drain & refill engine coolant
+drain & refill engine coolant	flush engine cooling system	drain & refill engine coolant
+drain & refill engine oil	lof service	lof service
+drain & refill engine oil	replace engine oil	replace engine oil
+drain & refill transmission	fill transmission	drain & refill transmission
+fill fluid	replace oil	lof service
+flush brake fluid	replace brake fluid	flush brake fluid
+flush power steering	replace power steering	flush power steering
+flush transmission flush kit	flush transmission fluid	transmission service
+flush trasmission fluid	replace transmission fluid	replace transmission fluid
+inspect distributor cap	inspect disc brake rotor	inspect distributor cap and rotor
+inspect tire pressure	tire service	tire service
+install cabin air filter	replace cabin air filter	replace cabin air filter
+install disc brake rotor	install disc brake pad	install disc brake pad and rotor kit
+install engine oil drain plug	replace engine oil	drain & refill engine oil
+install strut mount	replace strut mount	install strut mount
+install wheel alignment service	wheel alignment service	wheel alignment service
+lof service	drain & refill engine oil	lof service
+lof service	replace engine oil	lof service
+lof service	replace engine oil filter	lof service
+program transmission	replace transmission	program transmission
+recharge a/c	remove & install a/c	recharge a/c system
+recharge a/c	remove & install a/c compressor	recharge a/c system
+recharge a/c	remove & install a/c condenser	recharge a/c system
+recharge a/c	replace a/c compressor	recharge a/c system
+recharge a/c	replace a/c condenser	recharge a/c system
+recharge a/c system	replace a/c system	recharge a/c system
+recommend distributor cap	recommend disc brake rotor	recommend distributor cap and rotor
+recommend wheel alignment service	wheel alignment service	recommend wheel alignment service
+remove & install a/c line	replace a/c line	replace a/c line
+remove & install alternator	replace alternator	replace alternator
+repair hood	replace hood	repair hood
+replace a/c	repair a/c	repair a/c
+replace a/c compressor clutch assembly	replace a/c compressor	replace a/c compressor clutch assembly
+replace a/c condenser	replace a/c receiver drier	replace a/c condenser and receiver drier assembly
+replace brake hydraulic system	flush brake hydraulic system	flush brake hydraulic system
+replace brake service	service disc brake	service disc brake
+replace brake system 	flush brake system	flush brake system
+replace cylinder	replace ignition coil	replace ignition coil
+replace disc brake pad set	replace disc brake pad	replace disc brake pad set
+replace disc brake rotor	replace disc brake pad	replace disc brake pad and rotor kit
+replace disc brake rotor	replace hub assembly	replace disc brake rotor and hub assembly
+replace distributor cap	replace disc brake rotor	replace distributor cap and rotor
+replace engine camshaft position sensor	replace exhaust	replace engine camshaft position sensor
+replace engine coolant	flush engine coolant	flush engine coolant
+replace engine crackshaft seal	replace oil seal	replace engine crackshaft seal
+replace engine oil	add lubricant	replace engine oil
+replace engine oil filter	lof service	lof service
+replace engine oil filter	service engine oil filter	replace engine oil filter
+replace engine oil pan gasket	install engine oil pan gasket	replace engine oil pan gasket
+replace engine timing belt	replace engine water pump	replace engine timing belt kit with water pump
+replace engine timing belt kit	replace engine water pump	replace engine timing belt kit with water pump
+replace exhaust	replace exhaust resonator pipe	replace exhaust resonator pipe
+replace heater fitting	add heater fitting	replace heater fitting
+replace lof service	lof service	lof service
+replace lof service	replace engine oil	lof service
+replace lubricant	fill lubricant	replace lubricant
+replace lubricant	lof service	lof service
+replace lubricant	replace engine oil	lof service
+replace lubricant	replace oil	lof service
+replace oil	fill fluid	lof service
+replace power steering fluid	service power steering fluid	service power steering fluid
+replace shock absorber	replace suspension strut assembly	replace suspension strut and shock absorber assembly
+replace suspension control arm	replace ball joint	replace suspension control arm with ball joint
+replace suspension control arm	replace bushing	replace suspension control arm bushing kit
+replace suspension control arm	replace suspension control arm with ball joint	replace suspension control arm with ball joint
+replace tire	repair tire	replace tire
+replace tire	rotate tire	rotate tire
+replace turn signal light	service turn signal light	service turn signal light
+replace wheel	wheel alignment	wheel alignment
+replace wheel bearing	repack wheel bearing	repack wheel bearing
+replace wheel bearing	replace hub assembly	replace wheel bearing and hub assembly
+replace windshield washer	repair windshield washer	replace windshield washer
+service a/c	replace a/c	service a/c
+service clutch	replace clutch	service clutch
+service disc brake rotor kit	inspect disc brake rotor kit	service disc brake rotor kit
+service distributor cap	service disc brake rotor	service distributor cap and rotor
+service exhaust	replace exhaust	service exhaust
+service tire	balance tire	balance tire
+service tire	replace tire	service tire
+service tire	rotate tire	rotate tire
+service tires	tire service	tire service
+service transfer case	replace transfer case	service transfer case
+service transmission flush kit	service transmission fluid	transmission service
+top off underhood fluid	replace underhood fluid	top off underhood fluid
+wheel alignment	replace tire	wheel alignment

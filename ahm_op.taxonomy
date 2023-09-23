@@ -1,0 +1,83 @@
+AHM Non-Preferred Labor	AHM Preferred Labor
+check battery	116 --- BATTERY - TEST
+replace battery	015 --- BATTERY - REPAIR/REPLACE
+test battery	116 --- BATTERY - TEST
+exchange brake fluid	083 --- MAINTENANCE - BRAKES - FLUID 
+flush brake fluid	083 --- MAINTENANCE - BRAKES - FLUID 
+replace brake fluid	083 --- MAINTENANCE - BRAKES - FLUID 
+service brake fluid	083 --- MAINTENANCE - BRAKES - FLUID 
+inspection brake	083 --- MAINTENANCE - BRAKES - FLUID 
+replace cabin filter	079 --- FILTER - CABIN AIR 
+inspection complementary	020 --- OTHER MISC SERVICE
+wash complementary	113 --- CAR WASH / DETAIL 
+replace coolant	0X5 --- MAINTENANCE MINDER (MM5) - Coolant Replacement
+exchange cooling system	0X5 --- MAINTENANCE MINDER (MM5) - Coolant Replacement
+replace differential fluid	0X6 --- MAINTENANCE MINDER (MM6) - Rear Differential Fluid Replacement
+inspection emissions	008 --- EXHAUST / EMISSION SYSTEM 
+replace engine air filter	047 --- FILTER - ENGINE AIR  
+drain engine oil	0XA --- MAINTENANCE MINDER (MMA)  - Replace engine oil only 
+replace engine oil	0XA --- MAINTENANCE MINDER (MMA)  - Replace engine oil only 
+wash exterior	113 --- CAR WASH / DETAIL 
+exchange fluid	126 --- MAINTENANCE - FLUIDS - OTHER 
+replace fluid	126 --- MAINTENANCE - FLUIDS - OTHER 
+top off fluid	126 --- MAINTENANCE - FLUIDS - OTHER 
+free alignment check	009 --- WHEEL ALIGNMENT
+service fuel injection	014 --- FUEL SYSTEM 
+service fuel	014 --- FUEL SYSTEM 
+replace headlight bulb	058 --- ELECTRICAL - LIGHTS                                        
+vacuum interior	113 --- CAR WASH / DETAIL 
+wash interior	113 --- CAR WASH / DETAIL 
+program key	123 --- KEYS / KEY FOBS
+replace key	123 --- KEYS / KEY FOBS
+calibrate light	058 --- ELECTRICAL - LIGHTS                                        
+reset light	058 --- ELECTRICAL - LIGHTS                                        
+adjust light	058 --- ELECTRICAL - LIGHTS                                        
+inspection loaner car	073 --- AMENITIES                                    
+inspection multi point	097 --- MULTI-POINT INSPECTION (MPI)
+install nitrogen	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+add oil	0XA --- MAINTENANCE MINDER (MMA)  - Replace engine oil only 
+drain oil	0XA --- MAINTENANCE MINDER (MMA)  - Replace engine oil only 
+replace oil	0XA --- MAINTENANCE MINDER (MMA)  - Replace engine oil only 
+update pgm-fi	014 --- FUEL SYSTEM 
+flush power steering fluid	060 --- POWER STEERING 
+service regular	073 --- AMENITIES                                    
+adjust safety	X2C --- STATE SAFETY INSPECTION
+inspection safety	X2C --- STATE SAFETY INSPECTION
+recall safety	075 --- RECALL / CAMPAIGN 
+application sealant	S70 --- SUBLET - OTHER - AFTERMARKET
+replace spark plugs	016 --- ENGINE - TUNE UP 
+check state	X2C --- STATE SAFETY INSPECTION
+inspection state	X2C --- STATE SAFETY INSPECTION
+replace switch	081 --- ELECTRICAL - OTHER:q
+recall tailgate	117 --- BODY - OTHER (Not Body Shop Repairs)
+adjust tire	007 --- TIRES / WHEELS - ROTATION / SWAP / BALANCE
+balance tire	007 --- TIRES / WHEELS - ROTATION / SWAP / BALANCE
+calibrate tire	007 --- TIRES / WHEELS - ROTATION / SWAP / BALANCE
+check tire	007 --- TIRES / WHEELS - ROTATION / SWAP / BALANCE
+inflate tire	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+inspection tire	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+adjust tire pressure	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+calibrate tire pressure	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+check tire pressure	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+inspection tire pressure	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+adjust tire pressure monitoring system	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+calibrate tire pressure monitoring system	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+test tire pressure	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+replace tire	056 --- TIRES / WHEELS - REPLACE/MOUNT
+rotate tire	007 --- TIRES / WHEELS - ROTATION / SWAP / BALANCE
+reset tpms light	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+add transmission fluid	A18 --- MAINTENANCE - TRANSMISSION 
+replace transmission fluid	A18 --- MAINTENANCE - TRANSMISSION 
+service transmission fluid	A18 --- MAINTENANCE - TRANSMISSION 
+detailing vehicle	113 --- CAR WASH / DETAIL 
+wash vehicle	113 --- CAR WASH / DETAIL 
+alignment wheel	009 --- WHEEL ALIGNMENT
+check wheel	115 --- TIRES / WHEELS  -  INSPECTION, INFLATION   (Not Repairs) 
+install wheel locks	111 --- ACCESSORIES - WHEEL LOCKS 
+replace wheel locks	111 --- ACCESSORIES - WHEEL LOCKS 
+install wiper blade	042 --- Wiper Blade / Wiper Insert
+replace wiper inserts	042 --- Wiper Blade / Wiper Insert
+adjust wipers	042 --- Wiper Blade / Wiper Insert
+t	t
+lof service	complete lube & oil service
+

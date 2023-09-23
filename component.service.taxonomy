@@ -1,0 +1,231 @@
+PT	NPT
+state	state
+state point	state point
+multi point	multi point
+multi point	multipoint
+point	point
+complementary	complementary
+smog	smog
+amenities	amenities
+battery	battery
+brake	brake
+brake fluid	brake fluid
+brakes	brakes
+coolant	coolant
+coupon	coupon
+emissions	emissions
+engine oil 	engine oil 
+engine oil and filtet	engine oil and filtet
+filter	filter
+filter	filters
+fluid	fluid
+fluid	fluids
+free mpi	free mpi
+fuel filter	fuel filter
+lof	lof
+mpi	mpi
+multipoint inspection (mpi)	multipoint inspection (mpi)
+oil	oil
+pdi	pdi
+sealant	sealant
+seals	seals
+smog	smog
+smog certificate	smog certificate
+tire	tire
+tire balance	tire balance
+tire inflation	tire inflation
+tire patch	tire patch
+tire	tires
+windshield	windshield
+wiper arm	wiper arm
+wiper inserts	wiper inserts
+wiper inserts	wiper insert
+wiper blade	wiper blade
+wiper blade	wiper blades
+wiper rear	wiper rear
+wiper	wipers
+wiper	wiper
+a/c	a/c 
+a/c	air conditioner 
+a/c	ac 
+a/c	air control system 
+a/c	hvac 
+a/c	air conditioning 
+air filter	air filter 
+air filter	filtre air moteur 
+air filter	engine air filter  
+air filter	engine air  
+air filter	engine filter  
+air filter	air filter 
+air filter	filtre air moteur 
+air filter	engine air filter  
+air filter	engine air 
+air filter	engine filter  
+air filter 	filtre a air 
+air filter 	filtre a air
+battery	ac delco battery 
+battery	acdelco battery 
+battery	batt 
+battery	battery ac delco 
+battery cable	battery cable 
+battery cable	battery cables 
+battery cable connector	battery cable connector 
+battery charger	battery charger 
+battery terminal	battery terminal 
+battery terminal	battery terminals 
+battery terminal	bat terminal 
+battery terminal	terminale de batterie 
+cabin air filter	a/c cabin filter 
+cabin air filter	cabin air filters 
+cabin air filter	cabin filter 
+cabin air filter	cabin hvac filter 
+cabin air filter	cabin air filter  
+cabin air filter	cabin air 
+cabin air filter	pollen filter 
+cabin air filter	filtre d'habitacle 
+cabin air filter	cabin filters 
+cabin air filter 	cabin filter 
+caster	caster 
+chassis	chassis 
+diesel exhaut fluid	diesel exhaut fluid 
+differential fluid	differential fluid 
+differential fluid	diff fluid 
+differential fluid	differential 
+disc brake pad	disc pads 
+disc brake pad	brake pad 
+disc brake pad	brake pads 
+disc brake pad	pad 
+disc brake pad	pads 
+disc brake pad	ceramic pad 
+disc brake pad	ceramic pads 
+disc brake pad	cer pad 
+disc brake pad	cer pads 
+disc brake pad	plaquettes de frein 
+disc brake pad	disc brake pad 
+disc brake pad	disc brake pads 
+disc brake pad	disc pad 
+emission	emission 
+emission	emissions 
+engine coolant	engine coolant 
+engine coolant	coolant 
+engine coolant	coolant fluid 
+engine coolant	antifreeze 
+engine coolant	anti freeze 
+engine coolant 	coolent 
+engine oil	syn oil 
+engine oil	synthetic 5W-20 
+engine oil	5w20 
+engine oil	5w30 
+engine oil	5w-20 
+engine oil	0w20 
+engine oil	0w/20 
+engine oil	10/30wt 
+engine oil	5/20wt 
+engine oil	75w90 
+engine oil	5w-30 
+engine oil	5w-40 
+engine oil	5w40 
+engine oil	10w30 
+engine oil	motor oil 
+engine oil	synthetic oil 
+engine oil	20w50 
+engine oil	0w-20 
+engine oil	huile moteur 
+engine oil	full synthetic 
+engine oil	full syn 
+engine oil	mobil 1 oil 
+engine oil	mobile1 
+engine oil	syn blend 
+engine oil	synth oil 
+engine oil	multigrade oil 
+engine oil	multigrade oil 
+engine oil	synthetic blend oil 
+engine oil 	eng oil 
+engine oil 	motor oil 
+engine oil 	sythetic oil 
+engine oil and filter	engine oil and filter
+fluid levels	fluid levels 
+fluids	fluids 
+eadlight	headlight 
+headlight	head light 
+headlight	headlights 
+headlight	headlamp 
+headlight	head lamp 
+lof service	lof service 
+lof service	lof 
+lof service	lube oil filter 
+lof service	lube, oil, filter 
+lof service	lube, oil & filter 
+lof service	lube, oil and filter 
+lof service	lube, oil, & filter 
+lof service	lube/oil/filter 
+lof service	oil lube filter 
+lof service	lubrication oil and filter 
+lof service	lub-oil-filter 
+lubricant	lubricant 
+lubricant	lubrifiant 
+lubricant	lube 
+lubricant	lubricant oil 
+lubricant	lube oil 
+refrigerant	a/c refrigerant 
+refrigerant	refrigerant 
+refrigerant	ac refrigerant 
+refrigerant	refrigerant oil 
+refrigerant	freon 
+refrigerant	r134a
+serpentine belt	drive belt 
+serpentine belt	drive belts 
+serpentine belt	serp drive belt  
+serpentine belt	serp belt  
+serpentine belt	serpentine belt 
+serpentine belt	serpentine drive belt 
+serpentine belt	alternator belt 
+serpentine belt	alternator drive belt 
+serpentine belt	alt belt 
+serpentine belt	fan belt 
+serpentine belt	serpentine 
+serpentine belt	a/c drivebelt 
+serpentine belt	air conditioner belt 
+serpentine belt	a/c belt 
+serpentine belt	ac belt
+spark plug	spark plug 
+spark plug	spk plug 
+spark plug	sprk plug  
+spark plug	spark plugs 
+spark plug	iridium plug 
+spark plug	iridium/platinum plg
+tire	edge a/s 
+tire	pneus 
+tire 	edge as 
+tire pressure	tire pressure 
+tire pressure monitoring system	tire pressure monitoring system 
+tire pressure monitoring system	tpms 
+tire pressure monitoring system	tpm system 
+tire pressure monitoring system	tire monitor 
+transfer case fluid	transfer case fluid 
+transmission filter	transmission filter 
+transmission filter	filtre a transmission 
+transmission fluid	trans fluid 
+transmission fluid	transmission fluid 
+transmission fluid	transmission oil 
+transmission fluid	huile de transmission 
+transmission fluid	cvt fluid 
+transmission fluid	transmission fluids 
+transmission fluid	atf 
+transmission fluid	atf fluid 
+transmission fluid	synthetic atf 
+wheel	wheel 
+windshield wiper blade	windshield wiper blade 
+windshield wiper blade	wiper blade 
+windshield wiper blade	flat wiper blade 
+windshield wiper blade	beam blade 
+windshield wiper blade	blade 
+windshield wiper blade	wiper 
+windshield wiper blade	wiper arm 
+windshield wiper blade	blades 
+windshield wiper blade	windshield wiper 
+windshield wiper blade	windshield wipers 
+windshield wiper blade	wiper blades 
+windshield wiper blade	wipers 
+windshield wiper blade	beam blades
+
